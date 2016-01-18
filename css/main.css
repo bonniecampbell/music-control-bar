@@ -28,6 +28,7 @@ body {
   background-image: linear-gradient(to bottom, #e2e2e2, #ccc);
   text-align: center;
   color: #333;
+  position: relative;
 }
 
 .song {
@@ -43,6 +44,10 @@ body {
 }
 
 .album {
+  position: absolute;
+  width: 10%;
+  left: 0;
+  top: 0;
 
 }
 
