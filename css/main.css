@@ -86,7 +86,7 @@ body {
 .time-lapsed {
   font-size: .7rem;
   position: absolute;
-  bottom: 0;
+  bottom: .5rem;
   left: 4rem;
 }
 
@@ -94,7 +94,7 @@ body {
   font-size: .7rem;
   position: absolute;
   right: .5rem;
-  bottom: 0;
+  bottom: .5rem;
 }
 
 .controls {
